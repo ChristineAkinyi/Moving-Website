@@ -89,8 +89,6 @@
       padding-top: 30px;
       display: grid;
       grid-template-columns: 40% 40% 40%;
-    gap: 5%; 
-
     }
 
     .container7{
@@ -110,7 +108,7 @@
     }
 
     .final{
-      width: 100%;
+      width: 50%;
     }
     .customer{
       color: orange;
